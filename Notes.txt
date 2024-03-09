@@ -1,0 +1,64 @@
+Hi everyone, welcome to the 10 steamdeck tips from a linux power user.
+
+Since the steamdeck is such a success Linux is pushed as cargo to many new users who bought this great little device.
+
+In this video I want to tell you 10 Steam Deck tips as a Linux pro.
+
+I will talk about using the Desktop mode with these tips.
+
+1 - alt + left click and alt-right click on windows.
+show and tell
+
+2 - single click open
+This is a personal one but I find it quite annoying to have to double-click on links when using the filemanager called dolphin.
+
+SO what I do is enable single click activate. to activate this I go into
+
+Settings -> Workspace Behavior -> General -> Click file or folder -> Opens them
+
+ALso quite handy when you navigate using the touchscreen.
+
+But again, this is my personal opinion
+
+3 - Virtual desktops
+
+ALso in the workspace behavior you find this option.
+
+What i like to do is have a grid. so 2x2
+
+
+
+4 - Activities
+
+Now here is a feature that I regularly do not use on desktop but for the steamdeck it does make sense.
+
+This is Activities it let's you seperate a workspace per task you're doing.
+By default, there is only one (called default) pressing Windows + Q on your keyboard brings up the workspace switcher. You can add new ones in there. If you combine this with aforementioned virtual desktops you will recieve more screens to do stuff then you'll ever need.
+
+Lets say you are setting up roms from games you own but not willing to dump them yourself because it takes too much of your valuable time.
+
+Then you'd need a webbrowser and file explorer also a window to hold open your Emu Deck
+
+Let me show you how this would work in Workspaces
+
+Show
+
+
+
+5 - Sync your browser to multiple devices
+
+The steam os deliverd firefox as a browser by default. I don't think there is anything wrong with that. What I like to do on a new machine to speed up the browser experience is log in to my firefox account to sync. I also use this feature on Chrome by the way. This will enable you to send tabs to devices and will also push your extentions to install on a new device, basically let you forget about. You do have to re-configure for example last pass password manager need to sign-in to a new device.
+
+
+
+
+
+6 -  widgets
+
+now this is a big one especially since KDE/Plasma is know for it's extensibility
+
+Thius is also a complex one since you have two totally different screens to consider. I my personal setup I have this set up with a 4k display. The steam deck is only a 7" 800p display
+The issue is when you want to undock it. It then switches your main to the internal display. Granted, you could also make your deck the main display always. When writing this text I just thought of that to be honest. So I'll give that a try.
+
+
+
