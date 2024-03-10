@@ -61,4 +61,33 @@ Thius is also a complex one since you have two totally different screens to cons
 The issue is when you want to undock it. It then switches your main to the internal display. Granted, you could also make your deck the main display always. When writing this text I just thought of that to be honest. So I'll give that a try.
 
 
+The final three are things you could do on the docked steam deck making it an all-round powerhouse. 
+
+
+7 - shortcuts 
+
+to take the most advantage of the keyboard that is available when docked. 
+
+
+8 - Do light office work
+- you have a browser so, office 365 
+if you want native apps, libre office, wps, etc.. 
+
+but office 365 is pretty hard to beat, especially in an enterprise environment. 
+
+you can record audio 
+
+you can make notes, draw with krita 
+
+there is an unofficial version of teams 
+
+
+9 - simple dev work 
+
+podman - podman desktop 
+
+distrobox is toolbox on steriods. 
+
+
+10 - netflix / youtube 
 
